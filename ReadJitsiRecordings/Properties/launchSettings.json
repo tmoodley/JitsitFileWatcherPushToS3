@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ReadJitsiRecordings": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
